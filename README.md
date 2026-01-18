@@ -23,7 +23,7 @@ AlgoWatch enables educators and mentors to monitor student progress on Codeforce
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/KaranOps/AlgoWatch
+git clone https://github.com/K-Tikaraya/AlgoWatch
 cd AlgoWatch/server
 ```
 
